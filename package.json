@@ -1,0 +1,15 @@
+{
+  "name": "cvphp26",
+  "version": "1.0.0",
+  "description": "Martin Dubé — Portfolio & CV site — PHP + SCSS + JS",
+  "private": true,
+  "scripts": {
+    "sass": "sass src/scss/main.scss public/assets/css/main.css --style=expanded --source-map",
+    "sass:watch": "sass --watch src/scss/main.scss:public/assets/css/main.css --style=expanded --source-map",
+    "build": "sass src/scss/main.scss public/assets/css/main.css --style=compressed --no-source-map",
+    "serve": "php -S localhost:8080 -t public"
+  },
+  "devDependencies": {
+    "sass": "^1.77.0"
+  }
+}

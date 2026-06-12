@@ -1,0 +1,44 @@
+[
+  {
+    "id": "linkedin",
+    "label": "LinkedIn",
+    "url": "https://ca.linkedin.com/in/martindubenet",
+    "handle": "martindubenet",
+    "icon": "linkedin"
+  },
+  {
+    "id": "github",
+    "label": "GitHub",
+    "url": "https://github.com/martindubenet",
+    "handle": "martindubenet",
+    "icon": "github"
+  },
+  {
+    "id": "figma",
+    "label": "Figma",
+    "url": "https://www.figma.com/@martindube",
+    "handle": "@martindube",
+    "icon": "figma"
+  },
+  {
+    "id": "instagram",
+    "label": "Instagram",
+    "url": "https://www.instagram.com/smartdub/",
+    "handle": "smartdub",
+    "icon": "instagram"
+  },
+  {
+    "id": "unsplash",
+    "label": "Unsplash",
+    "url": "https://unsplash.com/@martindubenet",
+    "handle": "martindubenet",
+    "icon": "unsplash"
+  },
+  {
+    "id": "spotify",
+    "label": "Spotify",
+    "url": "https://open.spotify.com/user/smartdub",
+    "handle": "smartdub",
+    "icon": "spotify"
+  }
+]

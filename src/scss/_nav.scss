@@ -1,0 +1,35 @@
+// src/scss/_nav.scss
+// Site navigation
+
+.site-nav {
+  &__list {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+
+  &__link {
+    display: block;
+    padding: var(--space-2) var(--space-3);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: var(--color-text-muted);
+    border-radius: var(--radius-sm);
+    transition: color var(--transition-fast), background-color var(--transition-fast);
+
+    &:hover {
+      color: var(--color-text);
+      background-color: var(--color-surface);
+    }
+  }
+
+  &__item--active &__link {
+    color: var(--color-accent);
+    background-color: var(--color-surface-alt);
+  }
+
+  @media (max-width: 600px) {
+    &__list { gap: 0; }
+    &__link { font-size: var(--text-xs); padding: var(--space-2); }
+  }
+}

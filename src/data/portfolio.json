@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ekhocloud",
+    "year": 2026,
+    "jobId": "powerfactors",
+    "type": "ux-design",
+    "title": {
+      "fr": "EkhoCloud — Design System MUI",
+      "en": "EkhoCloud — MUI Design System"
+    },
+    "description": {
+      "fr": "Maquettes interactives ReactJS pour plateforme OPM manufacturière.",
+      "en": "Interactive ReactJS prototypes for manufacturing OPM platform."
+    },
+    "tools": ["Figma", "Material UI"],
+    "thumb": "/assets/img/portfolio/ekhocloud-thumb.jpg",
+    "images": []
+  },
+  {
+    "id": "upperbee-xd",
+    "year": 2020,
+    "jobId": "upperbee",
+    "type": "ux-design",
+    "title": {
+      "fr": "Upperbee — Prototypes Adobe XD",
+      "en": "Upperbee — Adobe XD Prototypes"
+    },
+    "description": {
+      "fr": "Wireframes et prototypes interactifs pour les applications web et mobile.",
+      "en": "Wireframes and interactive prototypes for web and mobile applications."
+    },
+    "tools": ["Adobe XD"],
+    "thumb": "/assets/img/portfolio/upperbee-thumb.jpg",
+    "images": []
+  }
+]

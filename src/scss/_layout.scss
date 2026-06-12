@@ -1,0 +1,70 @@
+// src/scss/_layout.scss
+// Global layout: site-header, main content area, site-footer
+
+// --- Site header ---
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  gap: var(--space-6);
+  padding: var(--space-4) var(--gutter);
+  background-color: color-mix(in srgb, var(--color-bg) 85%, transparent);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--color-border);
+
+  &__logo { text-decoration: none; }
+
+  &__name {
+    font-family: var(--font-display);
+    font-size: var(--text-lg);
+    color: var(--color-text);
+  }
+}
+
+// --- Main content ---
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: var(--space-16) var(--gutter);
+}
+
+// --- Site footer ---
+.site-footer {
+  border-top: 1px solid var(--color-border);
+  padding: var(--space-8) var(--gutter);
+  text-align: center;
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+}
+
+// --- Language switcher ---
+.lang-switch {
+  margin-left: auto;
+  font-size: var(--text-sm);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--color-text-muted);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: var(--space-1) var(--space-3);
+  transition: color var(--transition-fast), border-color var(--transition-fast);
+
+  &:hover {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+  }
+}
+
+// --- Responsive ---
+@media (max-width: 768px) {
+  .site-header {
+    flex-wrap: wrap;
+    gap: var(--space-3);
+  }
+
+  main {
+    padding: var(--space-8) var(--gutter);
+  }
+}

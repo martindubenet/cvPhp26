@@ -1,0 +1,168 @@
+[
+  {
+    "id": "powerfactors",
+    "dateStart": "2024-03",
+    "dateEnd": "2026-06",
+    "company": "Power Factors / Ekhosoft",
+    "location": "Brossard",
+    "role": {
+      "fr": "UX Designer",
+      "en": "UX Designer"
+    },
+    "hasPortfolio": true,
+    "description": {
+      "fr": "Concevoir des maquettes interactives adaptées à la clientèle manufacturière (opérateurs et gestionnaires) du produit EkhoCloud, solutions SaaS pour OPM (Operational Performance Management) sur architecture ReactJS. Les maquettes, dérivées de la librairie Material UI for Figma, sont personnalisées en exploitant au maximum les propriétés natives des composants dynamiques, variables et tokens de Figma v3.",
+      "en": "Designing interactive prototypes for manufacturing clients (operators and managers) for the EkhoCloud product, a SaaS solution for OPM (Operational Performance Management) on ReactJS architecture. Prototypes derived from the Material UI for Figma library, customized using native dynamic component properties, variables, and tokens in Figma v3."
+    },
+    "links": [
+      { "label": "ekho.cloud", "url": "https://ekho.cloud" }
+    ]
+  },
+  {
+    "id": "worximity",
+    "dateStart": "2021-11",
+    "dateEnd": "2023-12",
+    "company": "Worximity",
+    "location": "Montréal",
+    "role": {
+      "fr": "Développeur Front-end",
+      "en": "Front-end Developer"
+    },
+    "hasPortfolio": false,
+    "description": {
+      "fr": "Intégrer les maquettes dans une plateforme SaaS responsive (mobile, desktop, TV 4K) en Vuetify/VueJS. Rédiger et traduire (FR/EN/ES) la documentation interactive directement dans l'application via tooltips et dialogs.",
+      "en": "Integrating designs into a responsive SaaS platform (mobile, desktop, 4K TV) using Vuetify/VueJS. Writing and translating (FR/EN/ES) interactive in-app documentation via tooltips and dialogs."
+    },
+    "links": [
+      { "label": "tileplus.io", "url": "https://tileplus.io" }
+    ]
+  },
+  {
+    "id": "direxyon",
+    "dateStart": "2021-03",
+    "dateEnd": "2021-08",
+    "company": "Direxyon Technologies",
+    "location": "Montréal",
+    "role": {
+      "fr": "UX/UI Designer",
+      "en": "UX/UI Designer"
+    },
+    "hasPortfolio": false,
+    "description": {
+      "fr": "Optimiser et moderniser les interfaces d'applications de modélisation financière par IA. Supporter l'équipe back-end pour l'intégration Angular Material. Rédiger la documentation wiki des requis graphiques.",
+      "en": "Optimizing and modernizing UI for AI-driven financial modeling applications. Supporting the back-end team for Angular Material integration. Writing wiki documentation for design requirements."
+    },
+    "links": []
+  },
+  {
+    "id": "upperbee",
+    "dateStart": "2019-03",
+    "dateEnd": "2021-01",
+    "company": "Upperbee (SolutionCondo Inc.)",
+    "location": "Montréal",
+    "role": {
+      "fr": "Web Designer UX/UI & Intégrateur",
+      "en": "UX/UI Web Designer & Integrator"
+    },
+    "hasPortfolio": true,
+    "description": {
+      "fr": "Bonifier l'UX des applications web et mobile. Uniformiser les interfaces des marques SolutionCondo et Upperbee. Concevoir les wireframes et prototypes dans Adobe XD.",
+      "en": "Improving UX for web and mobile applications. Standardizing UI across SolutionCondo and Upperbee brands. Designing wireframes and prototypes in Adobe XD."
+    },
+    "links": [
+      { "label": "app.solutioncondo.com", "url": "https://app.solutioncondo.com" }
+    ]
+  },
+  {
+    "id": "videotron2018",
+    "dateStart": "2018-09",
+    "dateEnd": "2018-12",
+    "company": "Vidéotron",
+    "location": "Montréal",
+    "role": {
+      "fr": "Développeur Front-end (contrat)",
+      "en": "Front-end Developer (contract)"
+    },
+    "hasPortfolio": false,
+    "description": {
+      "fr": "Développement d'un microsite Atomic Design System servant de guide d'intégration pour les développeurs travaillant simultanément sur le nouveau produit Helix.",
+      "en": "Developing an Atomic Design System microsite as an integration guide for developers working simultaneously on the new Helix product."
+    },
+    "links": [
+      { "label": "videotron.com/helix", "url": "https://videotron.com/helix/experience" }
+    ]
+  },
+  {
+    "id": "tec",
+    "dateStart": "2017-06",
+    "dateEnd": "2018-09",
+    "company": "Technology Evaluation Centers",
+    "location": "Longueuil",
+    "role": {
+      "fr": "Développeur intégrateur web sénior",
+      "en": "Senior Web Integrator / Developer"
+    },
+    "hasPortfolio": false,
+    "description": {
+      "fr": "Développement de gabarits dans le CMS Kentico (ASP.NET). Architecture front-end stable et flexible pour projets ASP.NET Razor. Mentorat des développeurs juniors.",
+      "en": "Template development in Kentico CMS (ASP.NET). Building a stable, flexible front-end architecture for ASP.NET Razor projects. Mentoring junior developers."
+    },
+    "links": []
+  },
+  {
+    "id": "bellmedia",
+    "dateStart": "2011-01",
+    "dateEnd": "2016-05",
+    "company": "Bell Média / Astral Média",
+    "location": "Montréal",
+    "role": {
+      "fr": "Programmeur front-end (team lead 2011–2014)",
+      "en": "Front-end Developer (team lead 2011–2014)"
+    },
+    "hasPortfolio": false,
+    "description": {
+      "fr": "Ressource sénior d'une équipe de sept intégrateurs. Développement et maintenance du prototype HTML commun pour 14 sites de chaînes TV et radios sur CMS Polopoly. Personnalisation graphique de chaque marque à partir d'un framework Bootstrap/LESS partagé.",
+      "en": "Senior resource in a team of seven integrators. Development and maintenance of a shared HTML prototype for 14 TV and radio brand sites on CMS Polopoly. Per-brand visual customization from a shared Bootstrap/LESS framework."
+    },
+    "links": [
+      { "label": "iHeartRadio.ca", "url": "http://www.iheartradio.ca" },
+      { "label": "Sympatico.ca",   "url": "http://www.sympatico.ca" }
+    ]
+  },
+  {
+    "id": "nurun",
+    "dateStart": "2005-01",
+    "dateEnd": "2008-12",
+    "company": "Nurun Inc.",
+    "location": "Montréal",
+    "role": {
+      "fr": "Intégrateur web",
+      "en": "Web Integrator"
+    },
+    "hasPortfolio": false,
+    "description": {
+      "fr": "Intégration HTML/CSS selon les normes W3C et d'ergonomie cognitive. Rédaction de la documentation de livraison client.",
+      "en": "HTML/CSS integration per W3C and cognitive ergonomics standards. Writing client delivery documentation."
+    },
+    "links": [
+      { "label": "videotron.com", "url": "http://www.videotron.com" }
+    ]
+  },
+  {
+    "id": "dumoulin",
+    "dateStart": "2001-01",
+    "dateEnd": "2005-12",
+    "company": "Dumoulin Électronique Inc.",
+    "location": "Laval",
+    "role": {
+      "fr": "Concepteur graphiste / Intégrateur web / Illustrateur",
+      "en": "Graphic Designer / Web Integrator / Illustrator"
+    },
+    "hasPortfolio": false,
+    "description": {
+      "fr": "Conception graphique, architecture d'information et intégration HTML du site web ASP. Campagnes marketing et promotions en ligne. Animations Flash mensuelles.",
+      "en": "Graphic design, information architecture, and HTML integration for the ASP website. Online marketing campaigns and promotions. Monthly Flash animations."
+    },
+    "links": []
+  }
+]

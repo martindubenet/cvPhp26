@@ -1,0 +1,31 @@
+{
+  "site.title":         "Martin Dubé",
+  "site.tagline":       "UX/UI Designer & Front-end Developer",
+
+  "nav.home":           "Home",
+  "nav.cv":             "Résumé",
+  "nav.portfolio":      "Portfolio",
+  "nav.contact":        "Contact",
+
+  "home.intro":         "Find me on social networks",
+
+  "cv.title":           "Résumé",
+  "cv.profile":         "Profile",
+  "cv.skills":          "Skills",
+  "cv.experience":      "Experience",
+  "cv.education":       "Education",
+  "cv.seePortfolio":    "View portfolio",
+
+  "portfolio.title":    "Portfolio",
+  "portfolio.intro":    "Graphic works, illustrations and Figma components.",
+
+  "contact.title":      "Contact",
+  "contact.name":       "Name",
+  "contact.email":      "Email",
+  "contact.message":    "Message",
+  "contact.send":       "Send",
+  "contact.success":    "Your message has been sent.",
+  "contact.error":      "An error occurred. Please try again.",
+
+  "footer.rights":      "All rights reserved."
+}
