@@ -3,8 +3,10 @@
 
 @use 'tokens';
 @use 'reset';
+@use 'base';
 @use 'layout';
 @use 'nav';
+@use 'hero-header';
 @use 'cards';
 @use 'cv';
 @use 'portfolio';

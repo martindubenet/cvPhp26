@@ -1,0 +1,12 @@
+.hero {
+  margin-bottom: var(--space-6);
+
+  h1 { 
+    margin-bottom: 0;
+    font-weight: normal;
+  }
+  p {
+    color: var(--color-text-soft);
+    margin-bottom: 0;
+  }
+}

@@ -1,15 +1,20 @@
 {
   "site.title":         "Martin Dubé",
-  "site.tagline":       "UX/UI Designer & Front-end Developer",
+  "site.tagline":       "Senior UX Designer & Front-end Developer since 2001",
 
-  "nav.home":           "Home",
-  "nav.cv":             "Résumé",
+  "footer.rights":      "All rights reserved.",
+
+  "nav.home":           "About",
+  "nav.cv":             "Resume",
   "nav.portfolio":      "Portfolio",
   "nav.contact":        "Contact",
+  "nav.themeLight":     "Light",
+  "nav.themeDark":      "Dark",
+  "nav.themeActionTitle": "Toggle to “{themeName}” theme",
 
   "home.intro":         "Find me on social networks",
 
-  "cv.title":           "Résumé",
+  "cv.title":           "Resume",
   "cv.profile":         "Profile",
   "cv.skills":          "Skills",
   "cv.experience":      "Experience",
@@ -20,12 +25,18 @@
   "portfolio.intro":    "Graphic works, illustrations and Figma components.",
 
   "contact.title":      "Contact",
-  "contact.name":       "Name",
-  "contact.email":      "Email",
-  "contact.message":    "Message",
-  "contact.send":       "Send",
-  "contact.success":    "Your message has been sent.",
-  "contact.error":      "An error occurred. Please try again.",
 
-  "footer.rights":      "All rights reserved."
+  "messageForm.title":      "Messaging",
+  "messageForm.intro":      "Lorem ipsum",
+  "messageForm.name":       "Name",
+  "messageForm.email":      "Email",
+  "messageForm.message":    "Message",
+  "messageForm.reset":      "Reset",
+  "messageForm.submit":     "Send",
+  "messageForm.submitAction": "A confirmation message will appear.",
+  "messageForm.success":    "Your message has been sent.",
+  "messageForm.error":      "An error occurred. Please try again.",
+
+  "text.on":     "on",
+  "text.at":     "at"
 }

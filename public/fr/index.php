@@ -4,7 +4,7 @@ define('CURRENT_ROUTE', 'home');
 
 require_once '../../src/lang/i18n.php';
 require_once '../../src/lang/routes.php';
-require_once '../../src/templates/social-card.php';
+require_once '../../src/components/social-card.php';
 
 $socialLinks = json_decode(
     file_get_contents('../../src/data/social-links.json'),
@@ -15,11 +15,8 @@ require_once '../../src/templates/head.php';
 require_once '../../src/templates/header.php';
 ?>
 
-<main class="page-home">
-  <section class="home-hero">
-    <h1 class="home-hero__title"><?= t('site.title') ?></h1>
-    <p class="home-hero__tagline"><?= t('site.tagline') ?></p>
-  </section>
+<main class="site page--home">
+  <?php require_once '../../src/components/hero-header.php'; ?>
 
   <section class="social-grid" aria-label="<?= t('home.intro') ?>">
     <h2 class="social-grid__heading"><?= t('home.intro') ?></h2>

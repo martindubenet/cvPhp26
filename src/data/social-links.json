@@ -1,44 +1,66 @@
 [
   {
-    "id": "linkedin",
-    "label": "LinkedIn",
+    "id": "linked",
+    "code": "linkedin",
+    "title": "LinkedIn",
     "url": "https://ca.linkedin.com/in/martindubenet",
-    "handle": "martindubenet",
-    "icon": "linkedin"
+    "account": "martindubenet",
+    "teaser": null
   },
   {
     "id": "github",
-    "label": "GitHub",
+    "code": "github",
+    "title": "GitHub",
     "url": "https://github.com/martindubenet",
-    "handle": "martindubenet",
-    "icon": "github"
+    "account": "martindubenet",
+    "teaser": null
   },
   {
     "id": "figma",
-    "label": "Figma",
+    "code": "figma",
+    "title": "Figma",
     "url": "https://www.figma.com/@martindube",
-    "handle": "@martindube",
-    "icon": "figma"
-  },
-  {
-    "id": "instagram",
-    "label": "Instagram",
-    "url": "https://www.instagram.com/smartdub/",
-    "handle": "smartdub",
-    "icon": "instagram"
+    "account": "@martindube",
+    "teaser": null
   },
   {
     "id": "unsplash",
-    "label": "Unsplash",
+    "code": "unsplash",
+    "title": "Unsplash",
     "url": "https://unsplash.com/@martindubenet",
-    "handle": "martindubenet",
-    "icon": "unsplash"
+    "account": "martindubenet",
+    "teaser": null
+  },
+  {
+    "id": "insta1",
+    "code": "instagram",
+    "title": "Instagram",
+    "url": "https://www.instagram.com/martindubenet/",
+    "account": "martindubenet",
+    "teaser": null
+  },
+  {
+    "id": "insta2",
+    "code": "instagram",
+    "title": "Instagram",
+    "url": "https://www.instagram.com/smartdub/",
+    "account": "smartdub",
+    "teaser": null
+  },
+  {
+    "id": "insta2",
+    "code": "instagram",
+    "title": "Instagram",
+    "url": "https://www.instagram.com/moto.martin.roadtrip/",
+    "account": "moto.martin.roadtrip",
+    "teaser": null
   },
   {
     "id": "spotify",
-    "label": "Spotify",
+    "code": "spotify",
+    "title": "Spotify",
     "url": "https://open.spotify.com/user/smartdub",
-    "handle": "smartdub",
-    "icon": "spotify"
+    "account": "smartdub",
+    "teaser": null
   }
 ]

@@ -14,9 +14,8 @@ require_once '../../../src/templates/head.php';
 require_once '../../../src/templates/header.php';
 ?>
 
-<main class="page-portfolio">
-  <h1><?= t('portfolio.title') ?></h1>
-  <p class="page-portfolio__intro"><?= t('portfolio.intro') ?></p>
+<main class="site page--portfolio">
+  <?php require_once '../../../src/components/hero-header.php'; ?>
 
   <div class="portfolio-grid">
     <?php foreach ($items as $item): ?>

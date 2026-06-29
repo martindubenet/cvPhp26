@@ -7,5 +7,6 @@ $year = date('Y');
     &copy; <?= $year ?> Martin Dubé — <?= t('footer.rights') ?>
   </p>
 </footer>
+<script src="/assets/js/main.js"></script>
 </body>
 </html>
